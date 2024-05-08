@@ -6,4 +6,9 @@ The Tunnel Brittleness Index (TBI) was created by Lorenzo Milan (Politecnico di 
 
 TBI is a preliminary design tool to forecast the occurrence of brittle or ductile rock failure around deep tunnels.
 
-The app contained in this repository performs the computation of TBI based on its 9 input parameters. To be able to use the app, run the MyAppInstaller_web. exe file and then run the TBI_Computation.exe file.
+The app contained in this repository performs the computation of TBI based on its 9 input parameters. 
+
+To be able to use the app:
+    1) run the MyAppInstaller_web. exe file
+    2) run the TBI_Computation.exe file
+    3) Wait a few seconds for a dialog box to appear
