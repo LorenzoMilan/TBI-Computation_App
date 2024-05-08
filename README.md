@@ -8,7 +8,12 @@ TBI is a preliminary design tool to forecast the occurrence of brittle or ductil
 
 The app contained in this repository performs the computation of TBI based on its 9 input parameters. 
 
-To be able to use the app:
-    1) run the MyAppInstaller_web. exe file
-    2) run the TBI_Computation.exe file
-    3) Wait a few seconds for a dialog box to appear
+To use the app:
+
+    The first time:
+        1) run the MyAppInstaller_web. exe file
+        2) run the TBI_Computation.exe file
+        3) Wait a few seconds for a dialog box to appear
+    From the second time:
+        1) run the TBI_Computation.exe file
+        2) Wait a few seconds for a dialog box to appea
